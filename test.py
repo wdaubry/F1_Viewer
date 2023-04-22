@@ -1,5 +1,4 @@
 import requests
-from pprint import PrettyPrinter
 
 BASE_URL = "http://ergast.com/api/f1"
 ALL_JSON = "/current/driverStandings.json"
